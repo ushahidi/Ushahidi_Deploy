@@ -1,4 +1,4 @@
-# Script for Unattended Deployments of Ushahidi_Web
+# Scripts for Unattended Deployments of Ushahidi_Web
 
 ## Debian 6.0 (Squeeze)
 
