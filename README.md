@@ -11,8 +11,14 @@
     * Password: `ushahidi`
     * Database: `ushahidi`
 
+## Amazon Web Services
+
+* Search for `ami-23e32d4a` or `ushahidi`.
+* Run `/home/reset/reset.sh` to delete everything and take the deployment back to a vanilla install.
+* Run `/home/reset/reset_haiti.sh` to delete everything and install all the haiti data for use with testing.
+
 ## See Also
 
 * [Ushahidi.com](http://www.ushahidi.com/)
 * [Ushahidi_Web](https://github.com/ushahidi/Ushahidi_Web)
-* [Ushahidi Virtual Machines](http://sourceforge.net/projects/ushahidi/files/)
+* [Ushahidi Virtual Machine Images](http://sourceforge.net/projects/ushahidi/files/)
