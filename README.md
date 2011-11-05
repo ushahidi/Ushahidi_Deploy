@@ -11,6 +11,14 @@
     * Password: `ushahidi`
     * Database: `ushahidi`
 
+## OVA Package
+
+* [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format)
+* [VirtualBox](https://www.virtualbox.org/)
+* [VMware Player](http://www.vmware.com/products/player/)
+* [Download ushahidi.ova](http://sourceforge.net/projects/ushahidi/files/ushahidi.ova/download)
+* All usernames and passwords are: `ushahidi`
+
 ## Amazon Web Services
 
 * Search for `ami-23e32d4a` or `ushahidi`.
