@@ -13,10 +13,15 @@
 
 ## OVA Package
 
-* [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format)
-* [VirtualBox](https://www.virtualbox.org/)
-* [VMware Player](http://www.vmware.com/products/player/)
-* [Download ushahidi.ova](http://sourceforge.net/projects/ushahidi/files/ushahidi.ova/download)
+1. Download and install one of the following:
+    * [VirtualBox](https://www.virtualbox.org/)
+    * [VMware Player](http://www.vmware.com/products/player/)
+
+2. Download and import [ushahidi.ova](http://sourceforge.net/projects/ushahidi/files/ushahidi.ova/download)
+
+Some notes:
+
+* Uses the [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format) standard.
 * All usernames and passwords are: `ushahidi`
 
 ## Amazon Web Services
