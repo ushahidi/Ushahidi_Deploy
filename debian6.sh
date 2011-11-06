@@ -8,7 +8,7 @@ apt-get update
 apt-get upgrade -q -y
 
 # Install necessary Debian packages.
-apt-get install -q -y apache2 mysql-server php5 php5-curl php5-mysql php5-mcrypt php-pear git-core
+apt-get install -q -y apache2 mysql-server php5 php5-curl php5-mysql php5-mcrypt php-pear git-core postfix
 
 # Enable Apache mod_rewrite.
 a2enmod rewrite
