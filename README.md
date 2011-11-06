@@ -3,7 +3,7 @@
 ## Debian 6.0 (Squeeze)
 
 1. Run the following command:  
-`wget -qO- --no-check-certificate https://raw.github.com/ushahidi/Ushahidi_Deploy/master/debian6.sh | sudo bash`
+`wget -qO- --no-check-certificate https://raw.github.com/ushahidi/Ushahidi_Deploy/master/debian6.sh | bash`
 
 2. Run through the installation procedure. For your database, use the following details:
     * Hostname: `localhost`
