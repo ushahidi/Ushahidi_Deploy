@@ -21,4 +21,3 @@
 
 * [Ushahidi.com](http://www.ushahidi.com/)
 * [Ushahidi_Web](https://github.com/ushahidi/Ushahidi_Web)
-* [Ushahidi Virtual Machine Images](http://sourceforge.net/projects/ushahidi/files/)
