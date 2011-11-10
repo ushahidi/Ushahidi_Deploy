@@ -11,11 +11,6 @@
     * Password: `ushahidi`
     * Database: `ushahidi`
 
-Some notes:
-
-* Uses the [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format) standard.
-* All usernames and passwords are: `ushahidi`
-
 ## Amazon Web Services
 
 * Search for `ami-23e32d4a` or `ushahidi`.
