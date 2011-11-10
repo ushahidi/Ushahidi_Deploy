@@ -11,14 +11,6 @@
     * Password: `ushahidi`
     * Database: `ushahidi`
 
-## OVA Package
-
-1. Download and install one of the following:
-    * [VirtualBox](https://www.virtualbox.org/)
-    * [VMware Player](http://www.vmware.com/products/player/)
-
-2. Download and import [ushahidi.ova](http://sourceforge.net/projects/ushahidi/files/ushahidi.ova/download)
-
 Some notes:
 
 * Uses the [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format) standard.
