@@ -13,7 +13,12 @@
 
 ## Open Virtualization Format (OVF) Package
 
+### Download
+
 * [Ushahidi_Web-x86_64.ova](http://sourceforge.net/projects/ushahidi/files/Ushahidi_Web-x86_64.ova/download)
+
+### Login Credentials
+
 * Unix Username: `user`
 * Unix Password: `user`
 * Unix Root Password: `root`
