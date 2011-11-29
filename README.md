@@ -11,6 +11,10 @@
     * Password: `ushahidi`
     * Database: `ushahidi`
 
+## Open Virtualization Format
+
+* [Ushahidi_Web-x86_64.ova](http://sourceforge.net/projects/ushahidi/files/Ushahidi_Web-x86_64.ova/download)
+
 ## Amazon Web Services
 
 * Search for `ami-23e32d4a` or `ushahidi`.
