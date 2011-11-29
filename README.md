@@ -11,9 +11,16 @@
     * Password: `ushahidi`
     * Database: `ushahidi`
 
-## Open Virtualization Format
+## Open Virtualization Format (OVF) Package
 
 * [Ushahidi_Web-x86_64.ova](http://sourceforge.net/projects/ushahidi/files/Ushahidi_Web-x86_64.ova/download)
+* Unix Username: `user`
+* Unix Password: `user`
+* Unix Root Password: `root`
+* MySQL Username: `ushahidi`
+* MySQL Password: `ushahidi`
+* MySQL Root Password: blank
+* Application Directory: `/var/www/`
 
 ## Amazon Web Services
 
