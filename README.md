@@ -29,7 +29,7 @@
 
 ### Notes
 
-* Based on [Debian 6.0 Squeeze](http://www.debian.org/)
+* Based on [Debian 6.0 (Squeeze)](http://www.debian.org/)
 * Recommended to be used with [VirtualBox](https://www.virtualbox.org/)
 * Read more about [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format) on the Wikipedia
 
