@@ -5,7 +5,7 @@
 1. Run the following command:  
 `wget -qO- --no-check-certificate https://raw.github.com/ushahidi/Ushahidi_Deploy/master/debian6.sh | bash`
 
-2. Run through the installation procedure. For your database, use the following details:
+2. Open the IP of the server in your web browser. Run through the installation procedure. For your database, use the following details:
     * Hostname: `localhost`
     * Username: `ushahidi`
     * Password: `ushahidi`
