@@ -1,6 +1,6 @@
 # Scripts for Unattended Deployments of Ushahidi_Web
 
-## Debian 6.0 (Squeeze)
+## Debian 6.0 (Squeeze) Automated Installation Script
 
 1. Run the following command:  
 `wget -qO- --no-check-certificate https://raw.github.com/ushahidi/Ushahidi_Deploy/master/debian6.sh | bash`
@@ -29,6 +29,7 @@
 
 ### Notes
 
+* Based on [Debian](http://debian.org) 6.0 (Squeeze)
 * Recommended to be used with [VirtualBox](https://www.virtualbox.org/)
 * Read more about [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format) on the Wikipedia
 
