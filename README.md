@@ -27,6 +27,11 @@
 * MySQL Root Password: blank
 * Application Directory: `/var/www/`
 
+### Notes
+
+* Recommended to be used with [VirtualBox](https://www.virtualbox.org/)
+* Read more about [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format) on the Wikipedia
+
 ## Amazon Web Services
 
 * Search for `ami-23e32d4a` or `ushahidi`.
