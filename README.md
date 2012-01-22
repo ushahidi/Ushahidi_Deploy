@@ -11,28 +11,6 @@
     * Password: `ushahidi`
     * Database: `ushahidi`
 
-## Open Virtualization Format (OVF) Package
-
-### Download
-
-* [Ushahidi_Web-x86_64.ova](http://sourceforge.net/projects/ushahidi/files/Ushahidi_Web-x86_64.ova/download)
-
-### Login Credentials
-
-* Unix Username: `user`
-* Unix Password: `user`
-* Unix Root Password: `root`
-* MySQL Username: `ushahidi`
-* MySQL Password: `ushahidi`
-* MySQL Root Password: blank
-* Application Directory: `/var/www/`
-
-### Notes
-
-* Based on [Debian 6.0 (Squeeze)](http://www.debian.org/)
-* Recommended to be used with [VirtualBox](https://www.virtualbox.org/)
-* Read more about [Open Virtualization Format](http://en.wikipedia.org/wiki/Open_Virtualization_Format) on the Wikipedia
-
 ## Amazon Web Services
 
 * Search for `ami-23e32d4a` or `ushahidi`.
